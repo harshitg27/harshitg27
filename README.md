@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Harshit Gupta
 
-🚀 **Software Developer | Backend Engineer | MERN Stack Developer**
+🚀 **Software Developer | Backend Engineer | Full Stack Developer**
 
-I'm a passionate Software Developer with experience in building **scalable backend systems**, **REST APIs**, and **full-stack applications** using the MERN stack.  
+I'm a passionate Software Developer with experience in building **scalable backend systems**, **REST APIs**, and **full-stack applications** using the Java , Springboot , Node.js , Express.js , React.js , Mysql.  
 I love solving real-world problems through clean, maintainable code and continuously strive to enhance performance and reliability in my projects.
 
 ---
